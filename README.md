@@ -17,7 +17,26 @@
   c)drop column one because it does not add nothing
   d)reorder the column for making it more tidy
 7)###average each variable for each acctivity###
-  a)create "TidyDatasetWithAveragePerAc", which saves de summarise per activities
+  a)create "TidyDatasetWithAveragePerAc", which saves de summarise per activities ith th e function summarise()
+#######Variables Book########
+features
+training_set
+training_labels
+training
+test_set
+test_labels
+test
+all
+mean
+mean2
+std
+temp
+allmeanandstd
+activity_labels
+allwithactnames
+TidyDataset
+TidyDatasetWithAveragePerAct
+
 
   
  
