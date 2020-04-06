@@ -1,0 +1,18 @@
+#######Variables Book########
+features
+training_set
+training_labels
+training
+test_set
+test_labels
+test
+all
+mean
+mean2
+std
+temp
+allmeanandstd
+activity_labels
+allwithactnames
+TidyDataset
+TidyDatasetWithAveragePerAct
